@@ -1,0 +1,18 @@
+.mapContainer {
+    height: 100%;
+    width: 100%;
+}
+
+.ol-scale-line {
+    left: 45%;
+}
+.ol-mouse-position {
+    left: 0;
+    bottom: 0;
+    top: initial;
+    width: 110px;
+    text-align: center;
+    border-radius: 2px;
+    font-size: 12px;
+    background: #fff;
+}
